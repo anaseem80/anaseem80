@@ -1,4 +1,3 @@
-[![MasterHead](https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif)](shorturl.at/aevM3)
 <h1 align="center">Hi 👋, I'm Ahmed Naseem</h1>
 <h3 align="center">An enthusiastic frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif"/>
