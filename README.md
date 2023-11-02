@@ -6,7 +6,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaseem80&label=Profile%20views&color=0e75b6&style=flat" alt="anaseem80" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently working with **VUE JS**
 
 - 👯 I’m looking to collaborate on [Google](www.google.com)
 
