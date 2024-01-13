@@ -10,11 +10,9 @@
 
 - 👯 I’m looking to collaborate on [Google](www.google.com)
 
-- 👨‍💻 All of my projects are available at [shorturl.at/jtEXY](shorturl.at/jtEXY)
+- 👨‍💻 All of my projects are available at [[shorturl.at/jtEXY](shorturl.at/jtEXY)](https://portfolio-naseem.vercel.app/)
 
 - 📫 How to reach me **anaseemamin@gmail.com**
-
-- 📄 Know about my experiences [shorturl.at/GITWZ](shorturl.at/GITWZ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
