@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Google](www.google.com)
 
-- 👨‍💻 All of my projects are available at [[shorturl.at/jtEXY](shorturl.at/jtEXY)](https://portfolio-naseem.vercel.app/)
+- 👨‍💻 All of my projects are available at https://portfolio-naseem.vercel.app/
 
 - 📫 How to reach me **anaseemamin@gmail.com**
 
