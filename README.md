@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Naseem</h1>
 <h3 align="center">An enthusiastic frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif"/>
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaseem80&label=Profile%20views&color=0e75b6&style=flat" alt="anaseem80" /> </p>
